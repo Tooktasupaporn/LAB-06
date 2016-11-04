@@ -18,6 +18,8 @@
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-06/blob/master/imgs/pic1.png)
 
   2.2).	โปรแกรม และบันทึกผลที่ได้
+  
+  ![]()
 <hr>
 <hr>
 <hr>
